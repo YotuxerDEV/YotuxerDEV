@@ -3,23 +3,36 @@
   <img src="https://raw.githubusercontent.com/Yotuxer/Yotuxer/main/assets/banner.png" alt="Yotuxer Banner" width="100%" />
 </p>
 
-# Hi there 👋 I'm Yotuxer
+# 👋 Hello, I'm **Yotuxer**
 
-🎓 I'm an Informatics Engineering student from Spain with a passion for building things across the tech stack — backend, frontend, and game development.
-
-💬 Fluent in Spanish & English — always open to connect!
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently diving deep into **Kotlin** for Android app development  
-- 💡 Exploring projects in **C++**, **TypeScript**, and game dev  
-- 🤖 Using **VSCode + AI tools** like Tony Stark uses JARVIS
+🎓 Informatics Engineering student based in Spain  
+💻 Passionate about software development across backend, frontend, and game development  
+🧠 Supported by NOVA — my AI assistant enhancing productivity and learning  
+💬 Fluent in Spanish and English; eager to collaborate on innovative projects
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 NOVA Console - Current Focus
+
+<pre style="color:#00ffb3;font-weight:bold;">
+> Initializing YOTUXER development environment... ✅
+> Focus Areas:
+> - Kotlin for Android app development
+> - Modern C++ and TypeScript projects
+> - AI-assisted coding workflows with NOVA
+> Status: Actively building scalable, maintainable software █
+</pre>
+
+---
+
+## 🛠️ Tech Stack & Proficiency
+
+| Technology     | Proficiency Level  | Description                         |
+|----------------|--------------------|-----------------------------------|
+| 🐉 C++         | Advanced           | Experience with performance-critical applications and game dev |
+| ☕ Kotlin      | Intermediate       | Developing Android applications and learning advanced features    |
+| 🌀 TypeScript  | Intermediate       | Building web apps with type safety and modern frameworks          |
+| 🖥️ VSCode     | Expert             | Primary IDE, integrated with AI tools and extensions              |
 
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -30,21 +43,38 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yotuxer&show_icons=true&theme=radical" alt="Yotuxer's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yotuxer&show_icons=true&theme=radical&bg_color=0d1117&title_color=ffb703&icon_color=ffb703" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yotuxer&layout=compact&theme=radical" alt="Yotuxer's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yotuxer&layout=compact&theme=radical&bg_color=0d1117&title_color=ffb703" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yotuxer&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+## 🎧 Currently Listening
 
-> "I treat my dev setup like an AI-powered lab. If Iron Man had a student developer version — that's me."
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=nqcsoarawxzpe71kybwn9l7ur&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=nqcsoarawxzpe71kybwn9l7ur&cover_image=true&theme=novatoken&show_offline=false&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+> *Music fuels my focus and creativity during coding sessions.*
+
+---
+
+## ✨ A Little About Me
+
+> I approach software development with curiosity and discipline.  
+> Guided by NOVA, my AI assistant, I strive to write clean, efficient, and maintainable code while continuously learning new technologies.
 
 ---
 
