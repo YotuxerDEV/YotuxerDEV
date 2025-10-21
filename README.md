@@ -62,10 +62,11 @@
 ## 🎧 Currently Listening
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=nqcsoarawxzpe71kybwn9l7ur&redirect=true" target="_blank">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=nqcsoarawxzpe71kybwn9l7ur&redirect=true" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=nqcsoarawxzpe71kybwn9l7ur&cover_image=true&theme=novatoken&show_offline=false&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
   </a>
 </p>
+
 
 > *Music fuels my focus and creativity during coding sessions.*
 
